@@ -1,0 +1,5 @@
+tensorflow/
+Assignments/MNIST_data/
+Assignments/notMNIST_data/
+Assignments/*pickle
+Assignments/*gz
