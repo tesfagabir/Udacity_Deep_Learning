@@ -1,5 +1,6 @@
 tensorflow/
 Assignments/MNIST_data/
-Assignments/notMNIST_data/
+Assignments/notMNIST_large/
+Assignments/notMNIST_small/
 Assignments/*pickle
 Assignments/*gz
