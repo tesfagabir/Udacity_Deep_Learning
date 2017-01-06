@@ -1,6 +1,6 @@
 # Udacity Deep Learning Course
 
-Solutions for the Course Assignments.
+## Solutions for the Course Assignments
 
 The repository contains my solutions for the assignments of [Udacity Deep Learning course](https://www.udacity.com/course/deep-learning--ud730).
 
